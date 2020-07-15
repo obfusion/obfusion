@@ -1,7 +1,16 @@
-### Hi there 👋
+# About Me
 
-<!--
-**obfusion/obfusion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+	<a href="https://twitter.com/ValidVisa"><img src="https://img.shields.io/twitter/follow/ValidVisa?label=@ValidVisa&style=social" alt="Twitter"></a>
+</p>
+
+### About Me
+- I am irrelevant
+- Yes you read that right ( I am asked to touch trees and kiss leaves everyday )
+
+### What I tried to learn
+- Programming Language : Python, Node.js, Golang, C#
+- CAD
 
 Here are some ideas to get you started:
 
